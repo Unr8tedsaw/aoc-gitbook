@@ -1,5 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Portal Administration](portal/administration/overview.md)
+* [Adding New Users](adding-new-users.md)
+* [Adding New Sites](adding-new-sites.md)
+* [Configuring New Sites](configuring-new-sites.md)
 
